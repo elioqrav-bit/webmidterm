@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+    <title id="title">Quiz illustration</title>
+    <desc id="desc">A simple illustration of a quiz card with answer choices.</desc>
+    <rect width="800" height="520" rx="40" fill="#171827"/>
+    <circle cx="650" cy="110" r="110" fill="#5b5ce2" opacity="0.6"/>
+    <rect x="75" y="70" width="650" height="380" rx="28" fill="#24263a"/>
+    <rect x="120" y="112" width="120" height="18" rx="9" fill="#7b7df0"/>
+    <rect x="120" y="160" width="520" height="28" rx="14" fill="#e7e8f0"/>
+    <rect x="120" y="214" width="250" height="68" rx="16" fill="#34364f"/>
+    <rect x="386" y="214" width="250" height="68" rx="16" fill="#34364f"/>
+    <rect x="120" y="298" width="250" height="68" rx="16" fill="#5b5ce2"/>
+    <rect x="386" y="298" width="250" height="68" rx="16" fill="#34364f"/>
+    <circle cx="150" cy="332" r="14" fill="#fff" opacity=".95"/>
+    <path d="M144 332l5 5 10-12" stroke="#5b5ce2" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="510" y="394" width="120" height="22" rx="11" fill="#ffcd56"/>
+</svg>
